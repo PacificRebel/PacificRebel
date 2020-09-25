@@ -1,6 +1,6 @@
 ### Hi I'm Heli, 👋
 **nice to meet you!**
-I'm a Full Stack / Front End Developer, currently working on my portfolio page in React. I'm also a TV news journalist and I can't help refreshing the New York Times front page several times an hour. Please check out my <a href="https://github.com/PacificRebel/CV">CV</a> and repos below. 👇🏻 Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
+I'm a Full Stack / Front End Developer, currently working on my portfolio page in React. I'm also a <a href="https://www.channel4.com/news/">TV news journalist</a> and I can't help refreshing the <a href="https://www.nytimes.com/">New York Times</a> front page several times an hour. Please check out my <a href="https://github.com/PacificRebel/CV">CV</a> and repos below. 👇🏻 Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 
 <img src="./public/Window_1.png"/>  
 
