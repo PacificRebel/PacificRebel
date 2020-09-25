@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Too many options on what to put here! <img src="./public/MacBook_memoji.jpg" width="25" height="25"/>  Still thinking... 🤔
+### Too many options on what to put here! <img src="./public/MacBook_memoji.png" width="25" height="25"/>  Still thinking... 🤔
 
 Meanwhile, please check out my CV below! 👇🏻
 
