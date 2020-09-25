@@ -1,6 +1,6 @@
 ### Hi I'm Heli, nice to meet you!
 
-<img src="./public/Window.png"/>  
+<img src="./public/Window_1.png"/>  
 
 <img src="./public/MacBook_memoji.png" width="30" height="30"/>  
 
