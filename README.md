@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Too many options on what to put here! Still thinking... 🤔
+
+Meanwhile, please check out my CV below! 👇🏻
+
 <!--
 **PacificRebel/PacificRebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
