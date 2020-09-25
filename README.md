@@ -1,4 +1,5 @@
-**Hi I'm Heli**, 👋 **nice to meet you!**
+## Hi I'm Heli, 👋 
+**nice to meet you!**
 
 I'm a full stack / front end developer, currently working on my portfolio page in React. I'm also a TV news journalist and I can't help refreshing the New York Times front page several times an hour. 👇🏻 Please check out my CV below. 👇🏻 Meanwhile, here's me drinking coffee by a dirty window!
 
