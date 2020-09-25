@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi I'm Heli, nice to meet you! 
 
-### Too many options on what to put here!  <img src="./public/MacBook_memoji.png" width="30" height="30"/>   Still thinking... 🤔
+<img src="./public/MacBook_memoji.png" width="30" height="30"/>  
 
-👇🏻 Meanwhile, please check out my CV below! 👇🏻
+👇🏻 Please check out my CV below! 👇🏻
 
 <!--
 **PacificRebel/PacificRebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
