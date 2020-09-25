@@ -1,4 +1,4 @@
-### Hi I'm Heli, nice to meet you!
+### Hi I'm Heli, 👋 nice to meet you!
 
 <img src="./public/Window_1.png"/>  
 
