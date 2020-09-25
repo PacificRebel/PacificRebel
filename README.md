@@ -4,10 +4,6 @@ I'm a full stack / front end developer, currently working on my portfolio page i
 
 <img src="./public/Window_1.png"/>  
 
-<img src="./public/MacBook_memoji.png" width="30" height="30"/>  
-
-👇🏻 Please check out my CV below! 👇🏻
-
 <!--
 **PacificRebel/PacificRebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
