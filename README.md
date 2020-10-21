@@ -12,7 +12,7 @@ Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 
 ## Full Stack / Front End Developer with TV news background 🎬
 
-I'm a full stack developer, a recent graduate of the Makers bootcamp in London and work for Channel 4 News.  
+### I'm a full stack developer, a recent graduate of the Makers bootcamp in London and journalist at Channel 4 News.  
 I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with React and Gatsby, for example a couple of API call apps (my portfolio, and New York Times top story app)  and I'm
 really interested in the SEO and responsive web design opportunities Gatsby offers.  
 
@@ -32,7 +32,7 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Forum, where
 |     **Jack The Ripper**
 `iOS` native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. <br />Here's my blog! https://medium.com/@helisivunen <br /><br />Tech stack: `Swift`, `Xcode`.                   |     <img src="/public/JackTheRipper.gif" width="180" height="350"/>
 |         **Portfolio**
-|              My portfolio, linked to my repos via the GitHub API. <br /><br /> Tech stack: `Gatsby`,`React`, `Google Fonts`. <br /> Under construction! 🛠                                         |https://friendly-kepler-67683c.netlify.app/ <img src="/public/Portfolio.gif"/> |
+|              My portfolio, linked to my repos via the GitHub API. <br /><br /> Tech stack: `Gatsby`,`React`, `Flexbox`, `Google Fonts`. <br /> Under construction! 🛠                                         |https://friendly-kepler-67683c.netlify.app/ <img src="/public/Portfolio.gif"/> |
 |         **Headline Search**
 |              `API` call app for searching FT headlines. <br /><br />Tech stack: `Ruby`, `Rails`, `CSS` to emulate FT's colour and font.                                          |  <img src="/public/FT.gif"/>|
 |         **Tarvikkeet**                              |                                                   |
@@ -40,11 +40,12 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Forum, where
 
 ## Transferable skills
 
-- Excellent communication skills - I can condense complex information and present it convincingly.
+- Excellent communication skills - I can condense complex information and present it convincingly
 - Understanding of user behaviour online (click-throughs)
 - Logistics, copyright and legal/music clearance
 - Writing, video editing and editorial skills
 - Juggling multiple tasks at once and remaining calm under pressure
+- Great team player - I believe in taking collective credit for achievements
 
 ## Experience
 
@@ -59,10 +60,10 @@ Previous roles:
   I learned about SEO, thumbnails/story promotion, CMS and publishing tools.  
 - `Producer`: making stories into engaging TV.
 - `Avid Edit Trainer`: training more 100+ staff across departments on Avid editing software and server tools, in  
-  London and DC
+  London and DC.
 
 **CNN International**   
-- `Satellite Feed Producer` in the CNN London Master Control Room  
+- `Satellite Feed Producer` in the CNN London Master Control Room.  
 
 **Heart 106.2**  
 - `Reporter`: interviewing politicians and covering stories from scrabble championships to police raids.
@@ -73,8 +74,7 @@ Previous roles:
 #### Makers Academy
 
 - 12-week, intensive career change bootcamp. First four weeks was `Ruby`/`Rspec`, then `JavaScript`,  
-  and for the final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`,  
-  `debugging` and `clean code`. I've taken a top-up `React` course with Makers, and that’s strengthened my front-end skills.
+  and for the final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`, `debugging` and `clean code`. I've taken a top-up `React` course with Makers, which I loved  and it strengthened my front-end skills.
 
     #### Tech learned:
     -	Languages: `React`, `JavaScript`, `Ruby`, `HTML`, `CSS`, `Swift`  
