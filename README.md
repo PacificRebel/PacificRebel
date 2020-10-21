@@ -13,8 +13,7 @@ Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 ## Full Stack / Front End Developer with TV news background 🎬
 
 I'm a full stack developer, a recent graduate of the Makers bootcamp in London and work for Channel 4 News.  
-I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with React and Gatsby,  
-for example a couple of API call apps (my portfolio, and New York Times top story app) and I'm  
+I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with React and Gatsby, for example a couple of API call apps (my portfolio, and New York Times top story app)  and I'm 
 really interested in the SEO and responsive web design opportunities Gatsby offers.  
 
 I love it when something small I've built elicits reactions of wonder from those I demo it to! For example, I've recently built and deployed
@@ -22,8 +21,7 @@ websites with birthday greetings for friends and family instead of cards - excit
 
 I want to demystify programming for those who aren't normally drawn into it as a career, especially girls.  
 I got into programming myself thanks to a RailsGirls workshop, and have been coding with my daughter on Sphero Edu and Scratch.  
-Inclusive design fascinates me and I want to become good at it - I knew the issues but Chimmy Kalu's talk at this year's  
-Women Driven Development conference was an eye-opener for me.  
+Inclusive design fascinates me and I want to become good at it - I knew the issues but Chimmy Kalu's talk at this year's Women Driven Development conference was an eye-opener for me.  
 
 I'm a tree-hugging vegan, and member of my company's Sustainability Forum, where we work to reduce carbon footprint.
 
