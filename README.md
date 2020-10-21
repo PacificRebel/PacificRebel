@@ -13,7 +13,7 @@ Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 ## Full Stack / Front End Developer with TV news background 🎬
 
 I'm a full stack developer, a recent graduate of the Makers bootcamp in London and work for Channel 4 News.  
-I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with React and Gatsby, for example a couple of API call apps (my portfolio, and New York Times top story app)  and I'm 
+I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with React and Gatsby, for example a couple of API call apps (my portfolio, and New York Times top story app)  and I'm
 really interested in the SEO and responsive web design opportunities Gatsby offers.  
 
 I love it when something small I've built elicits reactions of wonder from those I demo it to! For example, I've recently built and deployed
@@ -74,15 +74,14 @@ Previous roles:
 
 - 12-week, intensive career change bootcamp. First four weeks was `Ruby`/`Rspec`, then `JavaScript`,  
   and for the final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`,  
-  `debugging` and `clean code`. I'm currently taking a top-up `React` course with Makers because I want to gain  
-  amazing front-end skills.
+  `debugging` and `clean code`. I've taken a top-up `React` course with Makers, and that’s strengthened my front-end skills.
 
     #### Tech learned:
-    -	Languages: `Ruby`, `JavaScript`, `React`, `HTML`, `CSS`, `Swift`  
-    -	Frameworks: `Rails`, `Node.js`  
+    -	Languages: `React`, `JavaScript`, `Ruby`, `HTML`, `CSS`, `Swift`  
+    -	Frameworks: `Gatsby`,`Node.js`, `Rails`  
     -	Test suites: `Jest`, `React Testing Library`, `RSpec`, `Capybara`, `Travis`  
     -	IDEs: `Atom`, `Visual Studio`, `Xcode`  
-    -	Other technologies: `GitHub`, `Heroku`, `SQL/TablePlus`, `Azure DevOps`   
+    -	Other technologies: `GitHub`, `Heroku`, `Netlify`, `SQL/TablePlus`, `Azure DevOps`   
 
 #### London School of Economics (LSE)
 
