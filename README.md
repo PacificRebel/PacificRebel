@@ -65,7 +65,7 @@ Previous roles:
 **CNN International**   
 - `Satellite Feed Producer` in the CNN London Master Control Room.  
 
-**Heart 106.2**  
+**Heart 106.2 radio station, London**  
 - `Reporter`: interviewing politicians and covering stories from scrabble championships to police raids.
 
 
