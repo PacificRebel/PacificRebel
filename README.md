@@ -75,7 +75,8 @@ Previous roles:
 
 - 12-week, intensive career change bootcamp. First four weeks was `Ruby`/`Rspec`, then `JavaScript`, and for the 
 final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`, `debugging` and  
-`clean code`. I've taken a top-up `React` course with Makers, which I loved  and it strengthened my front-end skills.  
+`clean code`. I've taken a top-up `React` course with Makers, which I loved  and it strengthened my front-end skills, plus  
+I've taught myself Gatsby.
 
     #### Tech learned:
     -	Languages: `React`, `JavaScript`, `Ruby`, `HTML`, `CSS`, `Swift`  
