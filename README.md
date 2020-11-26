@@ -13,7 +13,7 @@ Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 ## Full Stack / Front End Developer with TV news background 🎬
 
 ### I'm a full stack developer, a recent graduate of the Makers bootcamp in London and journalist at Channel 4 News.  
-I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with React and Gatsby, for example a couple of API call apps (my portfolio, and New York Times top story app)  and I'm
+I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with React and Gatsby, for example a couple of API call apps (my portfolio, and New York Times top story app and one which shows Finnish Covid-19 data)  and I'm
 really interested in the SEO and responsive web design opportunities Gatsby offers.  
 
 I love it when something small I've built elicits reactions of wonder from those I demo it to! For example, I've recently built and deployed
