@@ -104,6 +104,6 @@ I've taught myself Gatsby.
 
 ## Interests
 - I love the TLDR newsletter, which is a perfect tech geek roundup for someone like me, who's juggling many things!
-- Pod Save America and Campaign HQ are essential listening to enable me to stay on top of US politics
+- Pod Save America for US politics and Sway for amazing tech interviews
 - I'm in the early stages of writing a book from more than 2,000 letters my grandparents  
   sent to each other when my grandfather was fighting in the Finnish Continuation War during WWII.
