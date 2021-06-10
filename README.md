@@ -23,7 +23,7 @@ I want to demystify programming for those who aren't normally drawn into it as a
 I got into programming myself thanks to a RailsGirls workshop, and have been coding with my daughter on Sphero Edu and Scratch.  
 Inclusive design fascinates me and I want to become good at it - I knew the issues but Chimmy Kalu's talk at last year's Women Driven Development conference was an eye-opener for me.  
 
-I'm a tree-hugging vegan, and member of my company's Sustainability Action Team, which work to reduce ITN's carbon footprint.
+I'm a tree-hugging vegan, and member of my company's Sustainability Action Team, which works to reduce ITN's carbon footprint.
 
 ## Projects
 
