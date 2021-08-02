@@ -19,7 +19,7 @@ really interested in the responsive web design opportunities Gatsby offers.
 I love it when something small I've built elicits reactions of wonder from those I demo it to! For example, I've recently built and deployed simple
     <a href="https://wizardly-lumiere-aae737.netlify.app/">websites with birthday greetings</a> for friends and family instead of cards - exciting to receive, and great for the environment too.   
 
-I want to demystify programming for those who aren't normally drawn into it as a career, especially girls.    
+I want to demystify programming for those who aren't normally drawn into it as a career, especially girls.
 I got into programming myself thanks to a RailsGirls workshop. I've coded with my daughter on Sphero Edu and Scratch, and now encourage her to participate in my projects.  
     
 Inclusive design fascinates me and I want to become good at it - I knew the issues, but <a href="https://www.chimmykalu.com/">Chimmy Kalu</a>'s talk at last year's Women Driven Development conference was an eye-opener for me.  
