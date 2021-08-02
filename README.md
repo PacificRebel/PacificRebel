@@ -24,7 +24,7 @@ I got into programming myself thanks to a RailsGirls workshop. I've coded with m
     
 Inclusive design fascinates me and I want to become good at it - I knew the issues, but <a href="https://www.chimmykalu.com/">Chimmy Kalu</a>'s talk at last year's Women Driven Development conference was an eye-opener for me.  
 
-I'm a tree-hugging vegan, and member of my company's Sustainability Action Team, which works to reduce ITN's carbon footprint.
+I'm a tree-hugging vegan, and member of my company's Sustainability Action Team, which works to reduce <a href="https://www.itn.co.uk/">ITN's</a> carbon footprint.
 
 ## Projects
 
