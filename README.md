@@ -100,7 +100,7 @@ I've taught myself Gatsby.
 
 #### Spoken languages
 
-- Bilingual Finnish / English, fluent French, A-level standard Swedish and German (both Laudatur)
+- Bilingual Finnish / English, fluent French, A-level standard Swedish and German (Laudatur in Finnish Matriculation Exams)
 
 
 ## Interests
