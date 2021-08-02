@@ -8,7 +8,7 @@ Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 
 <img src="./public/Window_1.png"/>  
 
-# Heli Sivunen <a  href="https://www.linkedin.com/in/heli-sivunen/"> <img align="right" src="/public/LI-In-Bug.png" width="25" height="25"/><a  href="https://twitter.com/Heli_Sivunen"> <img align="right" src="/public/Twitter_Social_Icon_Square_Color.png" width="25" height="25"/>
+# Heli Sivunen <a  href="https://www.linkedin.com/in/heli-sivunen/"> <img align="right" src="/public/LI-In-Bug.png" width="25" height="25"/><a  href="https://twitter.com/Heli_Sivunen"> <img align="right" src="/public/Twitter_Social_Icon_Square_Color.png" width="25" height="25"/></a>
 
 ## TV News journalist 🎬 and Full Stack / Front End Developer
 
