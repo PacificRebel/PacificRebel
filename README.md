@@ -14,7 +14,7 @@ Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 
 ### I'm a Full Stack Developer, graduate of the Makers bootcamp in London and journalist at Channel 4 News.  
 I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with React and Gatsby, for example a couple of API call apps (my portfolio, and a New York Times top story app)  and I'm
-really interested in the SEO and responsive web design opportunities Gatsby offers.  
+really interested in the responsive web design opportunities Gatsby offers.  
 
 I love it when something small I've built elicits reactions of wonder from those I demo it to! For example, I've recently built and deployed simple
     <a href="https://wizardly-lumiere-aae737.netlify.app/">websites with birthday greetings</a> for friends and family instead of cards - exciting to receive, and great for the environment too.   
