@@ -21,7 +21,7 @@ websites with birthday greetings for friends and family instead of cards - excit
 
 I want to demystify programming for those who aren't normally drawn into it as a career, especially girls.  
 I got into programming myself thanks to a RailsGirls workshop, coding with my daughter on Sphero Edu and Scratch and am now trying to convince her to learn  Gatsby!  
-Inclusive design fascinates me and I want to become good at it - I knew the issues but <a href="https://www.chimmykalu.com/">Chimmy Kalu</a>'s talk at last year's Women Driven Development conference was an eye-opener for me.  
+Inclusive design fascinates me and I want to become good at it - I knew the issues, but <a href="https://www.chimmykalu.com/">Chimmy Kalu</a>'s talk at last year's Women Driven Development conference was an eye-opener for me.  
 
 I'm a tree-hugging vegan, and member of my company's Sustainability Action Team, which works to reduce ITN's carbon footprint.
 
