@@ -17,7 +17,7 @@ I'm particularly excited about front end work, especially building beautiful, us
 really interested in the SEO and responsive web design opportunities Gatsby offers.  
 
 I love it when something small I've built elicits reactions of wonder from those I demo it to! For example, I've recently built and deployed
-websites with birthday greetings for friends and family instead of cards - exciting to receive, and great for the environment too.   
+    <a href="https://wizardly-lumiere-aae737.netlify.app/">websites with birthday greetings</a> for friends and family instead of cards - exciting to receive, and great for the environment too.   
 
 I want to demystify programming for those who aren't normally drawn into it as a career, especially girls.  
 I got into programming myself thanks to a RailsGirls workshop, coding with my daughter on Sphero Edu and Scratch and am now trying to convince her to learn  Gatsby!  
