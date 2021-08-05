@@ -3,7 +3,7 @@
 
 **nice to meet you!** 👋.  
 
-I'm a Full Stack / Front End Developer, working in React (currently obsessing over Gatsby) and Ruby/Rails. I'm also a <a href="https://www.channel4.com/news/">Channel 4 News journalist</a> and I can't help refreshing the <a href="https://www.nytimes.com/">New York Times</a> front page several times an hour. I'm a big fan of Helsingin Sanomat dynamic stories - this is my favourite: <a href="https://dynamic.hs.fi/2020/bodom/">Mysteeri, joka ei vanhene koskaan</a>. Please check out my <a href="https://github.com/PacificRebel/CV">CV</a> below. 👇🏻    
+I'm a Full Stack / Front End Developer, working in React (currently Next.js and Gatsby) and Ruby/Rails. I'm also a <a href="https://www.channel4.com/news/">Channel 4 News journalist</a> and I can't help refreshing the <a href="https://www.nytimes.com/">New York Times</a> front page several times an hour. I'm a big fan of Helsingin Sanomat dynamic stories - this is my favourite: <a href="https://dynamic.hs.fi/2020/bodom/">Mysteeri, joka ei vanhene koskaan</a>. Please check out my <a href="https://github.com/PacificRebel/CV">CV</a> below. 👇🏻    
 
 Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 
