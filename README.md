@@ -3,27 +3,29 @@
 
 **nice to meet you!** 👋.  
 
-I'm a Full Stack / Front End Developer, working in React (currently obsessing over Gatsby) and Ruby/Rails. I'm also a <a href="https://www.channel4.com/news/">Channel 4 News journalist</a> and I can't help refreshing the <a href="https://www.nytimes.com/">New York Times</a> front page several times an hour. Please check out my <a href="https://github.com/PacificRebel/CV">CV</a> below. 👇🏻  
+I'm a Full Stack / Front End Developer, working in React (currently Next.js and Gatsby) and Ruby/Rails. I'm also a <a href="https://www.channel4.com/news/">Channel 4 News journalist</a> and I can't help refreshing the <a href="https://www.nytimes.com/">New York Times</a> front page several times an hour. I'm a big fan of Helsingin Sanomat dynamic stories - this is my favourite: <a href="https://dynamic.hs.fi/2020/bodom/">Mysteeri, joka ei vanhene koskaan</a>. Please check out my <a href="https://github.com/PacificRebel/CV">CV</a> below. 👇🏻    
+
 Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 
 <img src="./public/Window_1.png"/>  
 
-# Heli Sivunen <a  href="https://www.linkedin.com/in/heli-sivunen/"> <img align="right" src="/public/LI-In-Bug.png" width="25" height="25"/><a  href="https://twitter.com/Heli_Sivunen"> <img align="right" src="/public/Twitter_Social_Icon_Square_Color.png" width="25" height="25"/>
+# Heli Sivunen <a  href="https://www.linkedin.com/in/heli-sivunen/"> <img align="right" src="/public/LI-In-Bug.png" width="25" height="25"/><a  href="https://twitter.com/Heli_Sivunen"> <img align="right" src="/public/Twitter_Social_Icon_Square_Color.png" width="25" height="25"/></a>
 
-## Full Stack / Front End Developer with TV news background 🎬
+## TV News journalist 🎬 and Full Stack / Front End Developer
 
-### I'm a full stack developer, a recent graduate of the Makers bootcamp in London and journalist at Channel 4 News.  
-I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with React and Gatsby, for example a couple of API call apps (my portfolio, and New York Times top story app and one which shows Finnish Covid-19 data)  and I'm
-really interested in the SEO and responsive web design opportunities Gatsby offers.  
+### I'm a Full Stack Developer, graduate of the Makers bootcamp in London and journalist at Channel 4 News.  
+I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with React and Gatsby, for example a few API call apps (Openweathermap app, my portfolio, and a New York Times top story app)  and I'm
+really interested in the responsive web design opportunities Next.js and Gatsby offer.  
 
-I love it when something small I've built elicits reactions of wonder from those I demo it to! For example, I've recently built and deployed
-websites with birthday greetings for friends and family instead of cards - exciting to receive, and great for the environment too.   
+I love it when something small I've built elicits reactions of wonder from those I demo it to! For example, I've recently built and deployed simple
+    <a href="https://wizardly-lumiere-aae737.netlify.app/">websites with birthday greetings</a> for friends and family instead of cards - exciting to receive, and great for the environment too.   
 
-I want to demystify programming for those who aren't normally drawn into it as a career, especially girls.  
-I got into programming myself thanks to a RailsGirls workshop, and have been coding with my daughter on Sphero Edu and Scratch.  
-Inclusive design fascinates me and I want to become good at it - I knew the issues but Chimmy Kalu's talk at this year's Women Driven Development conference was an eye-opener for me.  
+I want to demystify programming for those who aren't normally drawn into it as a career, especially girls.
+I got into programming myself thanks to a RailsGirls workshop. I've coded with my daughter on Sphero Edu and Scratch, and now encourage her to participate in my projects.  
+    
+Inclusive design fascinates me and I want to become good at it - I knew the issues, but <a href="https://www.chimmykalu.com/">Chimmy Kalu</a>'s talk at last year's Women Driven Development conference was an eye-opener for me.  
 
-I'm a tree-hugging vegan, and member of my company's Sustainability Forum, where we work to reduce carbon footprint.
+I'm a tree-hugging vegan, and member of my company's Sustainability Action Team, which works to reduce <a href="https://www.itn.co.uk/">ITN's</a> carbon footprint.
 
 ## Projects
 
@@ -56,7 +58,7 @@ Test-driven `React` app which calls the Openweathermap API <br /> Under construc
 Current role:
 - `News Editor`: running the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
   the best picture of the day, assign reporters and camera crews to cover stories and provide editorial  
-  and legal guidance.
+  and legal guidance. Member of ITN's Sustainability Action Team.
 
 Previous roles:   
 - `Site Editor`, Channel 4 News Digital: managing a team of journalists working on our digital platforms.  
@@ -83,7 +85,7 @@ I've taught myself Gatsby.
 
     #### Tech learned:
     -	Languages: `React`, `JavaScript`, `Ruby`, `HTML`, `CSS`, `Swift`  
-    -	Frameworks: `Gatsby`,`Node.js`, `Rails`  
+    -	Frameworks: `Next.js`, `Gatsby`,`Node.js`, `Rails`  
     -	Test suites: `Jest`, `React Testing Library`, `RSpec`, `Capybara`, `Travis`  
     -	IDEs: `Atom`, `Visual Studio`, `Xcode`  
     -	Other technologies: `GitHub`, `Heroku`, `Netlify`, `SQL/TablePlus`, `Azure DevOps`   
@@ -102,11 +104,12 @@ I've taught myself Gatsby.
 
 #### Spoken languages
 
-- Bilingual Finnish / English, fluent French, A-level standard Swedish and German
+- Bilingual Finnish / English, fluent French, A-level standard Swedish and German (Laudatur in Finnish Matriculation Exams)
 
 
 ## Interests
 - I love the TLDR newsletter, which is a perfect tech geek roundup for someone like me, who's juggling many things!
-- Pod Save America and Campaign HQ are essential listening to enable me to stay on top of US politics
+- Kara Swisher's <a href="https://www.nytimes.com/column/sway">Sway</a> podcast for amazing tech interviews
+- Big fan of the Finnish journalist Riikka Suomela, and girls' coding pioneer Linda Liukas
 - I'm in the early stages of writing a book from more than 2,000 letters my grandparents  
   sent to each other when my grandfather was fighting in the Finnish Continuation War during WWII.
