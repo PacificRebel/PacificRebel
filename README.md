@@ -22,7 +22,7 @@ I love it when something small I've built elicits reactions of wonder from those
 
 I want to demystify programming for those who aren't normally drawn into it as a career, especially girls.
 I got into programming myself thanks to a RailsGirls workshop. I've coded with my daughter on Sphero Edu and Scratch, and now encourage her to participate in my projects.  
-    
+
 Inclusive design fascinates me and I want to become good at it - I knew the issues, but <a href="https://www.chimmykalu.com/">Chimmy Kalu</a>'s talk at last year's Women Driven Development conference was an eye-opener for me.  
 
 I'm a tree-hugging vegan, and member of my company's Sustainability Action Team, which works to reduce <a href="https://www.itn.co.uk/">ITN's</a> carbon footprint.
@@ -33,7 +33,7 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Action Team,
 | :-------------------------------------------------: | :-------------------------------------------------: |
 |     **Weather App**  
 Test-driven `React` app which calls the Openweathermap API <br /> Under construction! 🛠  
-| Tech stack: `React (Create React App)`, `React Testing Library`, `Jest`, `CSS`, `HTML`, `Google Fonts`. |  <img src="/public/Weather_tdd.gif"
+| Tech stack: `React (Create React App)`, `React Testing Library`, `Jest`, `CSS`, `HTML`, `Google Fonts`. |  <img src="/public/Weather_tdd_clip.gif" width="180" height="350"/>
 |     **Jack The Ripper**
 `iOS` native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. <br />Here's my blog! https://medium.com/@helisivunen <br /><br />Tech stack: `Swift`, `Xcode`.                   |     <img src="/public/JackTheRipper.gif" width="180" height="350"/>
 |         **Portfolio**
