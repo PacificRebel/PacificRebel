@@ -32,7 +32,7 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Action Team,
 |    Project details                                        |    Demo                                        |  
 | :-------------------------------------------------: | :-------------------------------------------------: |
 |             **Weather App** 
-|               Test-driven `React` app which calls the Openweathermap API. Under construction! 🛠 (see repo Readme for progress) <br/> </br> Tech stack: `React (Create React App)`, `React Testing Library`, `Jest`, `Material UI`, `CSS`, `HTML`, `Google Fonts`. |  <img src="/public/Weather_tdd_clip.gif"/>
+|               Test-driven `React` app which calls the Openweathermap API. Under construction! 🛠 (see <a href="https://github.com/PacificRebel/weather-tdd">repo  Readme</a> for progress) <br/> </br> Tech stack: `React (Create React App)`, `React Testing Library`, `Jest`, `Material UI`, `CSS`, `HTML`, `Google Fonts`. |  <img src="/public/Weather_tdd_clip.gif"/>
 |     **Jack The Ripper**
 `iOS` native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. <br />Here's my blog! https://medium.com/@helisivunen <br /><br />Tech stack: `Swift`, `Xcode`.                   |     <img src="/public/JackTheRipper.gif" width="180" height="350"/>
 |         **Portfolio**
