@@ -31,7 +31,9 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Action Team,
 
 |    Project details                                        |    Demo                                        |  
 | :-------------------------------------------------: | :-------------------------------------------------: |
-|             **Weather App** 
+|     **iOS New York Times Top Stories App**        |             
+|               `Swift` app which calls the New York Times API.  Tech stack: `Swift`, `Xcode`.<br/><br/>  |   <img src="https://user-images.githubusercontent.com/47863861/131716149-9c6284c7-c70d-4144-8b8c-b46021bb2209.gif" width="180" height="350"/>
+|    **Weather App** 
 |               Test-driven `React` app which calls the Openweathermap API. Under construction! 🛠 (see <a href="https://github.com/PacificRebel/weather-tdd">repo  Readme</a> for progress) <br/> </br> Tech stack: `React (Create React App)`, `React Testing Library`, `Jest`, `Material UI`, `CSS`, `HTML`, `Google Fonts`.<br/><br/> Deployed: https://jolly-payne-d39c41.netlify.app/ |  <img src="/public/Weather_tdd_clip.gif"/>
 |     **Jack The Ripper**
 `iOS` native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. <br />Here's my blog! https://medium.com/@helisivunen <br /><br />Tech stack: `Swift`, `Xcode`.                   |     <img src="/public/JackTheRipper.gif" width="180" height="350"/>
