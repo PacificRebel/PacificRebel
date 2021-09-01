@@ -3,7 +3,7 @@
 
 **nice to meet you!** 👋.  
 
-I'm a Full Stack / Front End Developer, working in React (currently Next.js and Gatsby), Swift and Ruby/Rails. I'm a <a href="https://www.channel4.com/news/">Channel 4 News journalist</a>. I'm a big fan the New York Times</a> and Helsingin Sanomat dynamic stories - these are so powerful: <a href="https://www.nytimes.com/interactive/2021/05/24/us/tulsa-race-massacre.html">Tulsa Race Massacre</a> and <a href="https://dynamic.hs.fi/2020/bodom/">Mysteeri, joka ei vanhene koskaan</a>. Please check out my CV below. 👇🏻    
+I'm a Full Stack / Front End Developer, working in React (currently Next.js and Gatsby), Swift and Ruby/Rails. I'm a <a href="https://www.channel4.com/news/">Channel 4 News journalist</a>. I'm a big fan of the New York Times'</a> and Helsingin Sanomat dynamic stories - these are so powerful: <a href="https://www.nytimes.com/interactive/2021/05/24/us/tulsa-race-massacre.html">Tulsa Race Massacre</a> and <a href="https://dynamic.hs.fi/2020/bodom/">Mysteeri, joka ei vanhene koskaan</a>. Please check out my CV below. 👇🏻    
 
 Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 
@@ -11,19 +11,16 @@ Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 
 # Heli Sivunen <a  href="https://www.linkedin.com/in/heli-sivunen/"> <img align="right" src="/public/LI-In-Bug.png" width="25" height="25"/><a  href="https://twitter.com/Heli_Sivunen"> <img align="right" src="/public/Twitter_Social_Icon_Square_Color.png" width="25" height="25"/></a>
 
-## TV News journalist 🎬 and Full Stack / Front End Developer
+## Channel 4 News journalist 🎬 and Full Stack / Front End Developer
+  
+I'm particularly excited about writing user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with Swift and React (scroll down for details),  and I'm really interested in the responsive web design opportunities Next.js and Gatsby offer.  
 
-### I'm a Full Stack Developer, graduate of the Makers bootcamp in London and journalist at Channel 4 News.  
-I'm particularly excited about front end work - user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with Swift and React, for example a few API call apps (Openweathermap app, my portfolio, and a New York Times top story app)  and I'm
-really interested in the responsive web design opportunities Next.js and Gatsby offer.  
+I love it when something small gives people joy, for example, 
+    <a href="https://wizardly-lumiere-aae737.netlify.app/">simple birthday greeting websites</a> I've built for friends and family instead of cards.
 
-I love it when something small I've built elicits reactions of wonder from those I demo it to! For example, I've recently built and deployed simple
-    <a href="https://wizardly-lumiere-aae737.netlify.app/">websites with birthday greetings</a> for friends and family instead of cards - exciting to receive, and great for the environment too.   
+I want to demystify programming for those who aren't normally drawn into it as a career, especially girls, and I got into programming myself thanks to a RailsGirls workshop. 
 
-I want to demystify programming for those who aren't normally drawn into it as a career, especially girls.
-I got into programming myself thanks to a RailsGirls workshop. I've coded with my daughter on Sphero Edu and Scratch, and now encourage her to participate in my projects.  
-
-Inclusive design fascinates me and I want to become good at it - I knew the issues, but <a href="https://www.chimmykalu.com/">Chimmy Kalu</a>'s talk at last year's Women Driven Development conference was an eye-opener for me.  
+Inclusive design fascinates me and I want to become good at it - <a href="https://www.chimmykalu.com/">Chimmy Kalu</a>'s talk at last year's Women Driven Development conference was an eye-opener for me.  
 
 I'm a tree-hugging vegan, and member of my company's Sustainability Action Team, which works to reduce <a href="https://www.itn.co.uk/">ITN's</a> carbon footprint.
 
@@ -32,7 +29,7 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Action Team,
 |    Project details                                        |    Demo                                        |  
 | :-------------------------------------------------: | :-------------------------------------------------: |
 |     **iOS New York Times Top Stories App**        |             
-|               `Swift` app which calls the New York Times API.  Tech stack: `Swift`, `Xcode`.<br/><br/>  |   <img src="https://user-images.githubusercontent.com/47863861/131716149-9c6284c7-c70d-4144-8b8c-b46021bb2209.gif" width="180" height="350"/>
+|               `Swift` app which calls the New York Times API. <br/><br/> Tech stack: `Swift`, `Xcode`.<br/><br/>  |   <img src="https://user-images.githubusercontent.com/47863861/131716149-9c6284c7-c70d-4144-8b8c-b46021bb2209.gif" width="180" height="350"/>
 |    **Weather App** 
 |               Test-driven `React` app which calls the Openweathermap API. Under construction! 🛠 (see <a href="https://github.com/PacificRebel/weather-tdd">repo  Readme</a> for progress) <br/> </br> Tech stack: `React (Create React App)`, `React Testing Library`, `Jest`, `Material UI`, `CSS`, `HTML`, `Google Fonts`.<br/><br/> Deployed: https://jolly-payne-d39c41.netlify.app/ |  <img src="/public/Weather_tdd_clip.gif"/>
 |     **Jack The Ripper**
