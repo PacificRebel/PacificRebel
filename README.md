@@ -3,7 +3,7 @@
 
 **nice to meet you!** 👋.  
 
-I'm a Full Stack / Front End Developer, working in React (currently Next.js and Gatsby) and Ruby/Rails. I'm also a <a href="https://www.channel4.com/news/">Channel 4 News journalist</a> and I can't help refreshing the <a href="https://www.nytimes.com/">New York Times</a> front page several times an hour. I'm a big fan of Helsingin Sanomat dynamic stories - this is my favourite: <a href="https://dynamic.hs.fi/2020/bodom/">Mysteeri, joka ei vanhene koskaan</a>. Please check out my CV below. 👇🏻    
+I'm a Full Stack / Front End Developer, working in React (currently Next.js and Gatsby), Swift and Ruby/Rails. I'm a <a href="https://www.channel4.com/news/">Channel 4 News journalist</a>. I'm a big fan the New York Times</a> and Helsingin Sanomat dynamic stories - these are so powerful: <a href="https://www.nytimes.com/interactive/2021/05/24/us/tulsa-race-massacre.html">Tulsa Race Massacre</a> and <a href="https://dynamic.hs.fi/2020/bodom/">Mysteeri, joka ei vanhene koskaan</a>. Please check out my CV below. 👇🏻    
 
 Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 
@@ -14,7 +14,7 @@ Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 ## TV News journalist 🎬 and Full Stack / Front End Developer
 
 ### I'm a Full Stack Developer, graduate of the Makers bootcamp in London and journalist at Channel 4 News.  
-I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with React and Gatsby, for example a few API call apps (Openweathermap app, my portfolio, and a New York Times top story app)  and I'm
+I'm particularly excited about front end work - user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with Swift and React, for example a few API call apps (Openweathermap app, my portfolio, and a New York Times top story app)  and I'm
 really interested in the responsive web design opportunities Next.js and Gatsby offer.  
 
 I love it when something small I've built elicits reactions of wonder from those I demo it to! For example, I've recently built and deployed simple
