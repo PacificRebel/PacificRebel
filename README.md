@@ -106,8 +106,7 @@ I've taught myself Gatsby.
 
 
 ## Interests
-- I love the TLDR newsletter, which is a perfect tech geek roundup for someone like me, who's juggling many things!
-- Kara Swisher's <a href="https://www.nytimes.com/column/sway">Sway</a> podcast for amazing tech interviews
-- Big fan of the Finnish journalist Riikka Suomela, and girls' coding pioneer Linda Liukas
-- I'm in the early stages of writing a book from more than 2,000 letters my grandparents  
-  sent to each other when my grandfather was fighting in the Finnish Continuation War during WWII.
+•	I love the TLDR newsletter, which is a perfect tech geek roundup and makes me sound clever
+•	I love “The Experiment” podcast by The Atlantic, and Naisasiatoimisto Kaartamo & Tapanainen 
+•	I'm writing a book from thousands of letters my grandparents sent to each other during WWII
+•	In my previous life, I was a dancer!
