@@ -13,7 +13,7 @@ Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 
 ## Channel 4 News journalist 🎬 and Full Stack / Front End Developer
   
-I'm particularly excited about writing user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with Swift and React (scroll down for details),  and I'm really interested in the responsive web design opportunities Next.js and Gatsby offer.  
+I'm particularly excited about writing user-friendly apps and immersive scrollytelling pages and I'm currently building with Swift and React (scroll down for details).  
 
 I love it when something small gives people joy, for example, 
     <a href="https://wizardly-lumiere-aae737.netlify.app/">simple birthday greeting websites</a> I've built for friends and family instead of cards.
