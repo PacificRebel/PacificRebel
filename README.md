@@ -31,7 +31,7 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Action Team,
 |     **iOS New York Times Top Stories App**        |             
 |               `Swift` app which calls the New York Times API. <br/><br/> Tech stack: `Swift`, `Xcode`.<br/><br/>  |   <img src="https://user-images.githubusercontent.com/47863861/131716149-9c6284c7-c70d-4144-8b8c-b46021bb2209.gif" width="180" height="350"/>
 |    **Weather App**
-|               `Next.js` app which calls the Openweathermap API, styled with `Chakra`. Under construction! 🛠  <br/> </br> Tech stack: `React (Next.js)`, `Chakra`, `CSS`, `HTML` |  <img src="/public/Nexj_js_openweather.gif"/>
+|               `Next.js` app which calls the OpenWeatherMap API, styled with `Chakra`. Under construction! 🛠  <br/> </br> Tech stack: `React (Next.js)`, `Chakra`, `CSS`, `HTML` |  <img src="/public/Nexj_js_openweather.gif"/>
 |     **Jack The Ripper**
 `iOS` native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. <br />Here's my blog! https://medium.com/@helisivunen <br /><br />Tech stack: `Swift`, `Xcode`.                   |     <img src="/public/JackTheRipper.gif" width="180" height="350"/>
 |         **Portfolio**
