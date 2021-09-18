@@ -12,13 +12,13 @@ Meanwhile, here's me drinking coffee by a dirty window - but it's sunny!
 # Heli Sivunen <a  href="https://www.linkedin.com/in/heli-sivunen/"> <img align="right" src="/public/LI-In-Bug.png" width="25" height="25"/><a  href="https://twitter.com/Heli_Sivunen"> <img align="right" src="/public/Twitter_Social_Icon_Square_Color.png" width="25" height="25"/></a>
 
 ## Channel 4 News journalist 🎬 and Full Stack / Front End Developer
-  
+
 I'm particularly excited about writing user-friendly apps and immersive scrollytelling pages and I'm currently building with Swift and React (scroll down for details).  
 
-I love it when something small gives people joy, for example, 
+I love it when something small gives people joy, for example,
     <a href="https://wizardly-lumiere-aae737.netlify.app/">simple birthday greeting websites</a> I've built for friends and family instead of cards.
 
-I want to demystify programming for those who aren't normally drawn into it as a career, especially girls, and I got into programming myself thanks to a RailsGirls workshop. 
+I want to demystify programming for those who aren't normally drawn into it as a career, especially girls, and I got into programming myself thanks to a RailsGirls workshop.
 
 Inclusive design fascinates me and I want to become good at it - <a href="https://www.chimmykalu.com/">Chimmy Kalu</a>'s talk at last year's Women Driven Development conference was an eye-opener for me.  
 
@@ -30,8 +30,8 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Action Team,
 | :-------------------------------------------------: | :-------------------------------------------------: |
 |     **iOS New York Times Top Stories App**        |             
 |               `Swift` app which calls the New York Times API. <br/><br/> Tech stack: `Swift`, `Xcode`.<br/><br/>  |   <img src="https://user-images.githubusercontent.com/47863861/131716149-9c6284c7-c70d-4144-8b8c-b46021bb2209.gif" width="180" height="350"/>
-|    **Weather App** 
-|               `Next.js` app which calls the Openweathermap API, styled with `Chakra`. Under construction! 🛠  <br/> </br> Tech stack: `React (Next.js)`, `Chakra`, `CSS`, `HTML`, Deployed: https://jolly-payne-d39c41.netlify.app/ |  <img src="/public/Weather_tdd_clip.gif"/>
+|    **Weather App**
+|               `Next.js` app which calls the Openweathermap API, styled with `Chakra`. Under construction! 🛠  <br/> </br> Tech stack: `React (Next.js)`, `Chakra`, `CSS`, `HTML`, Deployed: https://jolly-payne-d39c41.netlify.app/ |  <img src="/public/Next_js_openweather.gif"/>
 |     **Jack The Ripper**
 `iOS` native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. <br />Here's my blog! https://medium.com/@helisivunen <br /><br />Tech stack: `Swift`, `Xcode`.                   |     <img src="/public/JackTheRipper.gif" width="180" height="350"/>
 |         **Portfolio**
