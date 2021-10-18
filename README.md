@@ -56,7 +56,8 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Action Team,
 Current role:
 - `News Editor`: running the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
   the best picture of the day, assign reporters and camera crews to cover stories and provide editorial  
-  and legal guidance. Member of ITN's Sustainability Action Team.
+  and legal guidance. Member of ITN's Sustainability Action Team and Channel 4 newsroom representative on the next  
+  NOS upgrade group.
 
 Previous roles:   
 - `Site Editor`, Channel 4 News Digital: managing a team of journalists working on our digital platforms.  
