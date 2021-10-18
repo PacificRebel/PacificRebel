@@ -56,8 +56,8 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Action Team,
 Current role:
 - `News Editor`: running the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
   the best picture of the day, assign reporters and camera crews to cover stories and provide editorial  
-  and legal guidance. Member of ITN's Sustainability Action Team and Channel 4 newsroom representative on the next  
-  NOS upgrade group.
+  and legal guidance. Member of ITN's Sustainability Action Team and Channel 4 newsroom representative on the  
+  next NOS upgrade group.  
 
 Previous roles:   
 - `Site Editor`, Channel 4 News Digital: managing a team of journalists working on our digital platforms.  
@@ -78,7 +78,7 @@ Previous roles:
 #### Makers Academy
 
 - 12-week, intensive career change bootcamp. First four weeks was `Ruby`/`Rspec`, then `JavaScript`, and for the
-final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`, `debugging` and  
+final project  I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`, `debugging` and  
 `clean code`. I've taken a top-up `React` course with Makers, which I loved  and it strengthened my front-end skills, plus  
 I've taught myself Gatsby.
 
