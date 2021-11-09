@@ -105,7 +105,5 @@ I've taught myself Gatsby.
 
 
 ## Interests
-•	The TLDR newsletter is the perfect tech geek roundup and makes me sound clever  
-•	I love “The Experiment” podcast by The Atlantic, and Naisasiatoimisto Kaartamo & Tapanainen :)  
 •	I'm writing a book from thousands of letters my grandparents sent to each other during WWII  
 •	In my previous life, I was a dancer!  
