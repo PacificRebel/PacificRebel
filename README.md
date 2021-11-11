@@ -26,7 +26,7 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Action Team,
 
 |    Project details                                        |    Demo                                        |  
 | :-------------------------------------------------: | :-------------------------------------------------: |
-|     **iOS New York Times Top Stories App**        |             
+|     <a href="https://github.com/PacificRebel/NYTimes_headlines_iOS">**iOS New York Times Top Stories App**</a>       |             
 |               `Swift` app which calls the New York Times API. <br/><br/> Tech stack: `Swift`, `Xcode`.<br/><br/>  |   <img src="https://user-images.githubusercontent.com/47863861/131716149-9c6284c7-c70d-4144-8b8c-b46021bb2209.gif" width="180" height="350"/>
 |    **Weather App**
 |               `Next.js` app which calls the OpenWeatherMap API, styled with `Chakra`. Under construction! 🛠  <br/> </br> Tech stack: `React (Next.js)`, `Chakra`, `CSS`, `HTML` |  <img src="/public/Nexj_js_openweather.gif"/>
