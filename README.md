@@ -36,7 +36,7 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Action Team,
 |              My portfolio, linked to my repos via the GitHub API. <br /><br /> Tech stack: `Gatsby`,`React`, `Flexbox`, `Google Fonts`. <br /> Under construction! 🛠                                         |https://friendly-kepler-67683c.netlify.app/ <img src="/public/Portfolio.gif"/> |
 |         <a href="https://github.com/PacificRebel/headline-search">**Headline Search**</a>
 |              `API` call app for searching FT headlines. <br /><br />Tech stack: `Ruby`, `Rails`, `CSS` to emulate FT's colour and font.                                          |  <img src="/public/FT.gif"/>|
-|         **Tarvikkeet**                              |                                                   |
+|         <a href="https://github.com/PacificRebel/tarvikkeet">**Tarvikkeet**</a>                              |                                                   |
 |              Finnish-language front end CRUD project to learn CSS and `scrollytelling` with still images and video. <br /><br /> Tech stack: `Ruby`, `Rails`, `HTML`, `CSS`.                                          | <img src="/public/Tarvikkeet_small.gif"/>
 
 ## Transferable skills
