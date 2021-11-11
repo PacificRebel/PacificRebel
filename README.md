@@ -30,7 +30,7 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Action Team,
 |               `Swift` app which calls the New York Times API. <br/><br/> Tech stack: `Swift`, `Xcode`.<br/><br/>  |   <img src="https://user-images.githubusercontent.com/47863861/131716149-9c6284c7-c70d-4144-8b8c-b46021bb2209.gif" width="180" height="350"/>
 |     <a href="https://github.com/PacificRebel/openweather">**Weather App**</a>
 |               `Next.js` app which calls the OpenWeatherMap API, styled with `Chakra`. Under construction! 🛠  <br/> </br> Tech stack: `React (Next.js)`, `Chakra`, `CSS`, `HTML` |  <img src="/public/Nexj_js_openweather.gif"/>
-|     **Jack The Ripper**
+|    <a href="https://github.com/PacificRebel/Team-6-Game">**Jack The Ripper**</a>
 `iOS` native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. <br />Here's my blog! https://medium.com/@helisivunen <br /><br />Tech stack: `Swift`, `Xcode`.                   |     <img src="/public/JackTheRipper.gif" width="180" height="350"/>
 |         **Portfolio**
 |              My portfolio, linked to my repos via the GitHub API. <br /><br /> Tech stack: `Gatsby`,`React`, `Flexbox`, `Google Fonts`. <br /> Under construction! 🛠                                         |https://friendly-kepler-67683c.netlify.app/ <img src="/public/Portfolio.gif"/> |
