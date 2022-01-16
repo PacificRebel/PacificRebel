@@ -56,7 +56,8 @@ Current role:
   the best picture of the day, assign reporters and camera crews to cover stories and provide editorial  
   and legal guidance. Member of ITN's Sustainability Action Team and Channel 4 newsroom representative on the  
   next NOS upgrade group.  
-- `Producer`: I do the occasional producer shift, making stories into engaging TV. Writing scripts, editing picture and chasing stories.  
+- `Producer`: I do the occasional producer shift, making stories into engaging TV. Writing scripts, editing  
+  picture and chasing stories.  
 
 Previous roles:   
 - `Site Editor`, Channel 4 News Digital: managing a team of journalists working on our digital platforms.  
