@@ -55,7 +55,7 @@ Current role:
 - `News Editor`: running the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
   the best picture of the day, assign reporters and camera crews to cover stories and provide editorial  
   and legal guidance. Member of ITN's Sustainability Action Team and Channel 4 newsroom representative on the  
-  next NOS upgrade group.  
+  next NOS (Newsroom Operating System) upgrade group.  
 - `Producer`: I do the occasional producer shift, making news into engaging TV. Writing scripts, editing  
   picture and chasing stories.  
 
