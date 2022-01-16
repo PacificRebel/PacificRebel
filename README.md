@@ -11,7 +11,7 @@ I'm a Full Stack / Front End Developer, working in React (currently Next.js and 
 
 ## Channel 4 News journalist 🎬 and Full Stack / Front End Developer
 
-I'm particularly excited about writing user-friendly apps and immersive scrollytelling pages and I'm currently building with Swift and React (scroll down for details).  
+I'm particularly excited about writing user-friendly apps and immersive scrollytelling pages and I'm currently building with Swift and React (scroll down for details). I'm topping up my React skills with Pluralsight courses in my free time - more fun than just working on your own!  
 
 I love it when something small gives people joy, for example,
     <a href="https://wizardly-lumiere-aae737.netlify.app/">simple birthday greeting websites</a> I've built for friends and family instead of cards.
