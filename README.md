@@ -1,4 +1,4 @@
-<img class=one src="./public/ImHeli.jpg" width="210" height="45"/>
+<img class=one src="./public/My_name.png" width="210" height="45"/>
 
 
 **nice to meet you!** 👋.  
