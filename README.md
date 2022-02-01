@@ -7,7 +7,7 @@ I'm a Full Stack / Front End Developer, working in React (currently Next.js and 
 
 ## Today I...  
 Started a Sketch course to learn UI/UX. Learned the difference between Vector and Raster. Need to understand how to combine Sketch with React. 
-I'm thinking my next project will be a simple React page with a button that's styled with Sketch.
+I'm thinking my next project will be a simple React page with a button that's styled with Sketch. I also urgently need to redesign this 'Today I...' section!  
 
 <img src="./public/Window_1.png"/>  
 
