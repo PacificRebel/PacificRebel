@@ -7,7 +7,7 @@ I'm a Full Stack / Front End Developer, working in React (currently Next.js and 
 
 ## Today I...  
 Got stuck learning Sketch because I started battling with the Layer list. Recovered.
-I'm thinking my next project will be a simple React page with a button that's styled with Sketch. I also urgently need to redesign this 'Today I...' section!  
+I'm thinking my next project will be a simple React page with a button that's styled with Sketch. I need to look at HTML / FlexBox again for a potential future project. I also urgently need to redesign this 'Today I...' section!    
 
 <img src="./public/Window_1.png"/>  
 
@@ -22,9 +22,7 @@ I love it when something small gives people joy, for example,
 
 I want to demystify programming for those who aren't normally drawn into it as a career, especially girls, and I got into programming myself thanks to a RailsGirls workshop.
 
-Inclusive design fascinates me and I want to become good at it - <a href="https://www.chimmykalu.com/">Chimmy Kalu</a>'s talk at last year's Women Driven Development conference was an eye-opener for me.  
-
-I'm a tree-hugging vegan, and member of my company's Sustainability Action Team, which works to reduce <a href="https://www.itn.co.uk/">ITN's</a> carbon footprint.
+Inclusive design fascinates me and I want to become good at it - <a href="https://www.chimmykalu.com/">Chimmy Kalu</a>'s talks have been an eye-opener for me.  
 
 ## Projects
 
