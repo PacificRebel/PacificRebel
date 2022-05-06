@@ -6,7 +6,8 @@
 I'm a Full Stack / Front End Developer, working in React (currently Next.js and Gatsby), Swift and Ruby/Rails. I'm a <a href="https://www.channel4.com/news/">Channel 4 News journalist</a>. I'm a big fan of the New York Times'</a> and Helsingin Sanomat dynamic stories - these are so powerful: <a href="https://www.nytimes.com/interactive/2021/05/24/us/tulsa-race-massacre.html">Tulsa Race Massacre</a> and <a href="https://dynamic.hs.fi/2020/bodom/">Mysteeri, joka ei vanhene koskaan</a>. Please check out my CV below. 👇🏻   
 
 ## Today I...  
-I've just decided to start an HTML/CSS/JavaScript path on Pluralsight and then get certification. I'll need these skills for a future work project, which is exciting. Was great to revive a Gatsby project last week.  
+have been working on updating an old Rails project and it's proving challenging, because of out of date packages and clashing dependencies.  
+I've decided to start an HTML/CSS/JavaScript path on Pluralsight and then get certification. I'll need these skills for a future work project, which is exciting. Was great to revive a Gatsby project last week.  
 
 <img src="./public/Window_1.png"/>  
 
@@ -69,6 +70,7 @@ Previous roles:
 
 **CNN International**   
 - `Satellite Feed Producer` in the CNN London Master Control Room.  
+- `Assistand Producer` on the breakfast show, 'CNN This Morning'.  
 
 **Heart 106.2 radio station, London**  
 - `Reporter`: interviewing politicians and covering stories from scrabble championships to police raids.
