@@ -6,7 +6,7 @@
 I'm a Full Stack / Front End Developer, working in React (currently Next.js and Gatsby), Swift and Ruby/Rails. I'm a <a href="https://www.channel4.com/news/">Channel 4 News journalist</a>. I'm a big fan of the New York Times'</a> and Helsingin Sanomat dynamic stories - these are so powerful: <a href="https://www.nytimes.com/interactive/2021/05/24/us/tulsa-race-massacre.html">Tulsa Race Massacre</a> and <a href="https://dynamic.hs.fi/2020/bodom/">Mysteeri, joka ei vanhene koskaan</a>. Please check out my CV below. 👇🏻   
 
 ## Today I...  
-I've just decided to start an HTML/CSS/JavaScript path on Pluralsight and then get certification. I'll need these skills for a future work project, which is exciting.  
+I've just decided to start an HTML/CSS/JavaScript path on Pluralsight and then get certification. I'll need these skills for a future work project, which is exciting. Was great to revive a Gatsby project last week.  
 
 <img src="./public/Window_1.png"/>  
 
@@ -104,7 +104,7 @@ I've taught myself Gatsby.
 
 #### Spoken languages
 
-- Bilingual Finnish / English, fluent French, A-level standard Swedish and German (Laudatur in Finnish Matriculation Exams)
+- Bilingual Finnish / English, fluent French, intermediate Swedish and German (Laudatur in Finnish Matriculation Exams)
 
 
 ## Interests
