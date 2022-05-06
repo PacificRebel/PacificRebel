@@ -3,26 +3,23 @@
 
 **nice to meet you!** 👋.  
 
-I'm a Full Stack / Front End Developer, working in React (currently Next.js and Gatsby), Swift and Ruby/Rails. I'm a <a href="https://www.channel4.com/news/">Channel 4 News journalist</a>. I'm a big fan of the New York Times'</a> and Helsingin Sanomat dynamic stories - these are so powerful: <a href="https://www.nytimes.com/interactive/2021/05/24/us/tulsa-race-massacre.html">Tulsa Race Massacre</a> and <a href="https://dynamic.hs.fi/2020/bodom/">Mysteeri, joka ei vanhene koskaan</a>. Please check out my CV below. 👇🏻   
-
-## Today I...  
-have been working on updating an old Rails project and it's proving challenging, because of out of date packages and clashing dependencies.  
-I've decided to start an HTML/CSS/JavaScript path on Pluralsight and then get certification. I'll need these skills for a future work project, which is exciting. Was great to revive a Gatsby project last week.  
+I'm a News Editor at <a href="https://www.channel4.com/news/">Channel 4 News</a>, and Full Stack / Front End Developer, working in React (currently Next.js and Gatsby), Swift and Ruby/Rails. CV below! 👇🏻   
 
 <img src="./public/Window_1.png"/>  
 
 # Heli Sivunen <a  href="https://www.linkedin.com/in/heli-sivunen/"> <img align="right" src="/public/LI-In-Bug.png" width="25" height="25"/><a  href="https://twitter.com/Heli_Sivunen"> <img align="right" src="/public/Twitter_Social_Icon_Square_Color.png" width="25" height="25"/></a>
 
-## Channel 4 News journalist 🎬 and Full Stack / Front End Developer
+## Channel 4 News journalist 🎬 and Full Stack / Front End Developer  
 
-I'm particularly excited about writing user-friendly apps and immersive scrollytelling pages and I'm currently building with Swift and React (scroll down for details). I'm topping up my React skills with Pluralsight courses in my free time - more fun than just working on your own!  
+I've always been known as a tech specialist at work, but wanted to learn to code after reading about the lack of diversity in the programming, especially the issues caused by biased facial recognition AI. <a  href="https://www.codedbias.com/">"Coded Bias"</a> is a gripping illustration of this.   
+    
+I want to become good at inclusive design - <a href="https://www.chimmykalu.com/">Chimmy Kalu</a>'s talks have been an eye-opener for me.  
+
+Since my bootcamp, I've focused on writing apps with React and Swift, and improving my front-end skills by doing a Sketch course. I'll work to get certification for HTML/CSS/Javascript next. I'll need these skills for a future work project, which is exciting.  
 
 I love it when something small gives people joy, for example,
-    <a href="https://wizardly-lumiere-aae737.netlify.app/">simple birthday greeting websites</a> I've built for friends and family instead of cards.
+    <a href="https://fancy-croquembouche-09c52b.netlify.app/">simple birthday greeting websites</a> I've built for friends and family instead of cards - that one is built with Gatsby.
 
-I want to demystify programming for those who aren't normally drawn into it as a career, especially girls, and I got into programming myself thanks to a RailsGirls workshop.
-
-Inclusive design fascinates me and I want to become good at it - <a href="https://www.chimmykalu.com/">Chimmy Kalu</a>'s talks have been an eye-opener for me.  
 
 ## Projects
 
@@ -58,8 +55,6 @@ Current role:
   the best picture of the day, assign reporters and camera crews to cover stories and provide editorial  
   and legal guidance. Member of ITN's Sustainability Action Team and Channel 4 newsroom representative on the  
   next NOS (Newsroom Operating System) upgrade group.  
-- `Producer`: I do the occasional producer shift, making news into engaging TV. Writing scripts, editing  
-  picture and chasing stories.  
 
 Previous roles:   
 - `Site Editor`, Channel 4 News Digital: managing a team of journalists working on our digital platforms.  
@@ -72,18 +67,11 @@ Previous roles:
 - `Satellite Feed Producer` in the CNN London Master Control Room.  
 - `Assistand Producer` on the breakfast show, 'CNN This Morning'.  
 
-**Heart 106.2 radio station, London**  
-- `Reporter`: interviewing politicians and covering stories from scrabble championships to police raids.
-
-
 ## Education
 
 #### Makers Academy
 
-- 12-week, intensive career change bootcamp. First four weeks was `Ruby`/`Rspec`, then `JavaScript`, and for the
-final project  I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`, `debugging` and  
-`clean code`. I've taken a top-up `React` course with Makers, which I loved  and it strengthened my front-end skills, plus  
-I've taught myself Gatsby.
+- 12-week, intensive Software Developer bootcamp. 
 
     #### Tech learned:
     -	Languages: `React`, `JavaScript`, `Ruby`, `HTML`, `CSS`, `Swift`  
@@ -106,7 +94,7 @@ I've taught myself Gatsby.
 
 #### Spoken languages
 
-- Bilingual Finnish / English, fluent French, intermediate Swedish and German (Laudatur in Finnish Matriculation Exams)
+- Bilingual Finnish / English, fluent French, advanced Swedish and German (Laudatur in Finnish Matriculation Exams)
 
 
 ## Interests
