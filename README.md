@@ -9,7 +9,7 @@ I'm a writer, freelance TV reporter and Full Stack / Front End Developer, workin
 
 Projects below! 👇🏻   
 
-<img src="./public/Window_1.png"/>  
+<img src="./public/Hietsu.jpeg"/>  
 
 
 
