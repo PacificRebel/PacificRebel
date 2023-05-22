@@ -2,10 +2,10 @@
 
 
 
-**nice to meet you!** 👋.  **I'm currently on book leave.**  
+**nice to meet you!** 👋.  
 
   
-I'm a News Editor at <a href="https://www.channel4.com/news/">Channel 4 News</a>, and Full Stack / Front End Developer, working in React (mainly Gatsby), Swift and Ruby/Rails.  
+I'm a writer, freelance TV reporter and Full Stack / Front End Developer, working in React (mainly Gatsby), Swift and Ruby/Rails.  
 
 Projects below! 👇🏻   
 
